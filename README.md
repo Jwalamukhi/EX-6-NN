@@ -54,6 +54,8 @@ plt.show()
 
 <H3>Output:</H3>
 
+![exp6-1](https://github.com/user-attachments/assets/ab5492eb-aef5-4d40-a8ab-17abdad791d7)
+
 
 
 <H3>Results:</H3>
